@@ -1,4 +1,5 @@
 import random
+
 number = random.randint(-10000, 10000)
 Last_digit=int(str(number)[-1])
 if Last_digit> 5:
