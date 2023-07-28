@@ -4,4 +4,4 @@ for number in range(10):
         if not number +1>8:
             print(', ',end='')
         else:
-            print(' ')
+            print('')
